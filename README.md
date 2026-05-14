@@ -62,6 +62,9 @@ This project simulates a real-world marketing analytics engagement where raw, in
 
 > Interactive dashboard visualizing conversion funnels, marketing ROI, and customer sentiment.
 
+<!-- Action Buttons -->
+[<img src="https://img.shields.io/badge/View_Interactive_Dashboard-217346?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />](https://app.powerbi.com/view?r=eyJrIjoiYmZmOTIyYWUtMzZlYy00MTI2LWJiNTEtYWI5Mjc0MzM1MjZkIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&embedImagePlaceholder=true&pageName=6fda6007dac558d0e56e)
+
 ![Dashboard Demo](05_screenshots/Dashboard.gif)
 
 <p align="center">
